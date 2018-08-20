@@ -9,7 +9,7 @@
 2. line : all flights separated by comma, all price variations seperated by comma
 
 **Example :**
- DPS->USM,2,2 . 
+ DPS->USM,2,2  
  DPS-HKT,HKT-USM,1bag:154,0bag:104
 
 ## Running script
