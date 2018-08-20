@@ -8,7 +8,7 @@
 1. line : source and destination of whole journey, number of flights included in that journey, number of price variations
 2. line : all flights separated by comma, all price variations seperated by comma
 
-**Example :**
+**Example :**  
  DPS->USM,2,2  
  DPS-HKT,HKT-USM,1bag:154,0bag:104
 
